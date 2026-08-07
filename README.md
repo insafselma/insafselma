@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Selma Insaf Houari </h1>
 <h3 align="center">AI student| UI UX designer| data science enthusiast</h3>
 
-- 🔭 I’m currently pursuing AI engineering degree **USTHB university**
+- 🔭 I’m currently pursuing AI engineering degree  in **USTHB university**
 
-- 🌱 I’m currently learning **Data science piplines , full stack development**
+- 🌱 I’m currently learning **Data science piplines & full stack development**
 
 - 📫 How to reach me **houari.selma.06@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FLsCKP3sfYfJzVY7LZ9LxnbJp4Nx2ZpP/view?usp=sharing](https://drive.google.com/file/d/1FLsCKP3sfYfJzVY7LZ9LxnbJp4Nx2ZpP/view?usp=sharing)
 
-- ⚡ Fun fact **I self study computational astrophysic**
+- ⚡ Fun fact **I self study computational astrophysics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
