@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selma Insaf</h1>
+<h1 align="center">Hi 👋, I'm Selma Insaf Houari </h1>
 <h3 align="center">AI student| UI UX designer| data science enthusiast</h3>
 
 - 🔭 I’m currently pursuing AI engineering degree **USTHB university**
